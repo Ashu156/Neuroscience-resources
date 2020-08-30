@@ -27,3 +27,5 @@ Various resources on the internet for learning neuroscience
 
 13. [Collaborative Research in Computational Neuroscience (CRCNS) Summer Course in Mining and Modeling of Neural Data](https://archive.org/search.php?query=2018+crcns+course&sort=titleSorter)
 
+14. [Mathematical Tools for Neural and Cognitive Science (Prof. Mike Landy and Prof. Eero Simoncelli, New York University)](http://www.cns.nyu.edu/~eero/math-tools/)
+

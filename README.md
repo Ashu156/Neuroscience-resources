@@ -11,6 +11,6 @@ Various resources on the internet for learning neuroscience
 
 5. [Neuroinformatics by Prof. Kenneth Harris (UCL)](https://www.ucl.ac.uk/cortexlab/neuroinformatics-class-page)
 
-6.[Computational Statistics ](http://wpressutexas.net/coursewiki/index.php?title=Main_Page)
+6. [Computational Statistics ](http://wpressutexas.net/coursewiki/index.php?title=Main_Page)
 
 7. [Data Science in Practice (Prof. Bradley Voytek, UCSD)](https://datascienceinpractice.github.io/docs/index.html)

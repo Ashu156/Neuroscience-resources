@@ -21,5 +21,9 @@ Various resources on the internet for learning neuroscience
 
 10. [Neural Signal Processing (Prof. Byron Yu, (Carnegie Mellon University))](http://users.ece.cmu.edu/~byronyu/teaching/nsp_sp10/coursemats/)
 
-11. []()
+11. [Introduction to Theoretical Neuroscience](https://warwick.ac.uk/fac/sci/maths/undergrad/ughandbook/year4/ma4g4/)
+
+12. [Foundations of Data Science (Ravi Kannan (Microsoft Research)))](https://www.youtube.com/watch?v=WEBUWYxaqLQ&list=PLD7HFcN7LXRcvobbHq_8zMyWq_tKwtebc)
+
+13. [Collaborative Research in Computational Neuroscience (CRCNS) Summer Course in Mining and Modeling of Neural Data](https://archive.org/search.php?query=2018+crcns+course&sort=titleSorter)
 

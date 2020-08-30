@@ -14,3 +14,12 @@ Various resources on the internet for learning neuroscience
 6. [Computational Statistics ](http://wpressutexas.net/coursewiki/index.php?title=Main_Page)
 
 7. [Data Science in Practice (Prof. Bradley Voytek, UCSD)](https://datascienceinpractice.github.io/docs/index.html)
+
+8. [Introduction to Modeling and Data Analysis in Neuroscience (Prof. Mark Kramer (Boston University))](http://math.bu.edu/people/mak/MA665/)
+
+9. [Advanced Modeling and Data Analysis in Neuroscience (Prof. Mark Kramer (Boston University))](http://math.bu.edu/people/mak/MA666/)
+
+10. [Neural Signal Processing (Prof. Byron Yu, (Carnegie Mellon University))](http://users.ece.cmu.edu/~byronyu/teaching/nsp_sp10/coursemats/)
+
+11. []()
+

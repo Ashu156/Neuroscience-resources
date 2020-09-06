@@ -29,3 +29,5 @@ Various resources on the internet for learning neuroscience
 
 14. [Mathematical Tools for Neural and Cognitive Science (Prof. Mike Landy and Prof. Eero Simoncelli, New York University)](http://www.cns.nyu.edu/~eero/math-tools/)
 
+15. [Modelling the Mind (University of Arizona)](http://u.arizona.edu/~bob/web_NSCS344/index.html)
+

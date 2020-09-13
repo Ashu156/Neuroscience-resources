@@ -31,3 +31,9 @@ Various resources on the internet for learning neuroscience
 
 15. [Modelling the Mind (University of Arizona)](http://u.arizona.edu/~bob/web_NSCS344/index.html)
 
+16. [Adobe Illustrator for Scientists](https://www.youtube.com/watch?v=z2bcqyRxFrI&list=PLhKpKEPEAauYIsyjnIN2YXztNo7BrZVxQ)
+
+17. [Graphic Design for Scientists](https://www.youtube.com/watch?v=cy_vVaioGbQ&list=PLKJTDQuu2AfngDHZeL71LniimGUcc8wuY)
+
+18. [Illustrator for Scientists](https://www.youtube.com/watch?v=2OFA4StiPSw&list=PLBFF6BB8ADAB064A8)
+

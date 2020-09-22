@@ -37,3 +37,4 @@ Various resources on the internet for learning neuroscience
 
 18. [Illustrator for Scientists](https://www.youtube.com/watch?v=2OFA4StiPSw&list=PLBFF6BB8ADAB064A8)
 
+19. [Computational Statistics and Data Analysis (Daniel Durstewitz, Heidelberg University)](https://heibox.uni-heidelberg.de/d/d606658a5d56452f9479/)
